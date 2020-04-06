@@ -1,2 +1,2 @@
-# [vicropht.com](https://vicropht.com)
+# ~~vicropht.com
 My own personal website/portoflio! (Being currently built)
