@@ -1,4 +1,4 @@
 # vicropht.com
-My own personal website/portoflio! (Being currently built)
+My own personal website/portoflio!
 
-Archived because GitHub Pages does not support .htaccess. Swapping to Jekyll at: 
+Archived because GitHub Pages does not support .htaccess. Swapping to Jekyll.
